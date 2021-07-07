@@ -22,7 +22,7 @@ export default function Vehicles() {
                                
                                 <h5 className="card-title">{vehicles.name}</h5>
                                 <h6 className="card-subtitle mb-2">Description: {vehicles.description}</h6>
-                                <h6 className="card-subtitle mb-2">Class: {vehicles.class}</h6>
+                                <h6 className="card-subtitle mb-2">Class: {vehicles.vehicle_class}</h6>
                                 <h6 className="card-subtitle mb-2">Length: {vehicles.length}</h6>
                             
                         
