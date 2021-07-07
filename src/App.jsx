@@ -1,14 +1,3 @@
-// import React from 'react';
-
-// const App = () => {
-//     return (
-//         <div>
-//             <h2>Test Text</h2>
-//         </div>
-//     );
-// };
-
-// export default App;
 import React from 'react';
 import {
     BrowserRouter as Router,
